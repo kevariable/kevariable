@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi fellas 👋, I'm Kevin</h1>
+<h3 align="center">Graduated computer science who is interested in web development</h3>
 
-<!--
-**kevariable/kevariable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Currently working with <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Backend Engineer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
 
-Here are some ideas to get you started:
+**Interests**
+- Laravel
+- TypeScript
+- Database
+- Docker
+- Clean Code
+- Refactoring
+- Domain Driven Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Get in touch**
+- 📫 **[kevariable@gmail.com](mailto:kevariable@gmail.com)**
+- 📄 **[https://linkedin.com/in/kevariable](https://linkedin.com/in/kevariable)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacerocc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevariable" height="30" width="40" /></a>
+<a href="https://medium.com/@kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevariable" height="30" width="40" /></a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevariable&layout=compact)
