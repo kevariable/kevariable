@@ -5,7 +5,7 @@
 
 **Interests**
 - Laravel
-- TypeScript
+- NodeJS / TypeScript
 - Database
 - Docker
 - Clean Code
