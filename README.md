@@ -1,7 +1,7 @@
 <h1 align="center">Hi fellas 👋, I'm Kevin</h1>
 <h3 align="center">Graduated computer science who is interested in web development</h3>
 
-<p align="center">Currently working with <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Backend Engineer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
+<p align="center">Currently working with <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Full-stack Developer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
 
 **Interests**
 - Laravel
