@@ -7,7 +7,6 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&color=663399)
 ![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=jetbrains&color=663399)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=663399)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=663399)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=663399)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&color=663399)
 ![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=express&color=663399)
