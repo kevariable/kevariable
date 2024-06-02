@@ -21,4 +21,4 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 [linkedin]: https://linkedin.com/in/kevariable
 [twitter_icon]: http://i.imgur.com/wWzX9uB.png (twitter icon)
 [linkedin_icon]: https://raw.githubusercontent.com/kevariable/kevariable/master/linkedin.png (linkedin icon)
-[UMRI]: https://umri.ac.id/
+[UMRI]: https://umri.ac.id/#googtrans(id|en)
