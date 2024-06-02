@@ -1,26 +1,27 @@
-<h1 align="center">Hi fellas 👋, I'm Kevin</h1>
-<h3 align="center">Graduated computer science who is interested in web development</h3>
+# Hello
 
-<p align="center">Currently working with <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Full-stack Developer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
+## About me
+My name is Kevin, I'm a Laravel programmer at <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Software Engineer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. I have a Bachelor's degree in computer engineering from [State University of Muhammadiyah Riau][UMRI].
 
-**Interests**
-- Laravel
-- NodeJS / TypeScript
-- Database
-- Docker
-- Clean Code
-- Refactoring
-- Domain Driven Design
+You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 
-**Get in touch**
-- 📫 **[kevariable@gmail.com](mailto:kevariable@gmail.com)**
-- 📄 **[https://linkedin.com/in/kevariable](https://linkedin.com/in/kevariable)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacerocc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevariable" height="30" width="40" /></a>
-<a href="https://medium.com/@kevariable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kevariable" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=fishshell&logoColor=white&color=2057f7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevariable&layout=compact)
+
+[twitter]: https://twitter.com/kevariable
+[linkedin]: https://linkedin.com/in/kevariable
+[twitter_icon]: http://i.imgur.com/wWzX9uB.png (twitter icon)
+[linkedin_icon]: https://raw.githubusercontent.com/kevariable/kevariable/master/linkedin.png (linkedin icon)
+[UMRI]: https://umri.ac.id/
