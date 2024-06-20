@@ -12,6 +12,7 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&color=663399)
 ![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=express&color=663399)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&color=663399)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&color=663399)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&color=663399)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=663399)
 ![](https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=fishshell&color=663399)
