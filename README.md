@@ -1,5 +1,5 @@
 ## Hello
-My name is Kevin, I'm a Laravel programmer at <a href="https://bytehire.io/" target="_blank">ByteHire</a> as a Software Engineer in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. I have a Bachelor's degree in computer engineering from [State University of Muhammadiyah Riau][UMRI].
+My name is Kevin, I'm a Lead Software Engineer at <a href="https://bytehire.io/" target="_blank">ByteHire</a> in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. I have a Bachelor's degree in computer engineering from [State University of Muhammadiyah Riau][UMRI].
 
 You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 
