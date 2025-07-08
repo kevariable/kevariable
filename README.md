@@ -1,5 +1,5 @@
 ## Hello
-My name is Kevin, I'm a Lead Software Engineer at <a href="https://bytehire.io/" target="_blank">ByteHire</a> in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿. I have a Bachelor's degree in computer engineering from [State University of Muhammadiyah Riau][UMRI].
+My name is Kevin, I'm a Lead Software Engineer at <a href="https://bytehire.io/" target="_blank">ByteHire</a> in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
 You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 
@@ -23,4 +23,3 @@ You can find me on [Twitter][twitter] and [Linkedin][linkedin].
 [linkedin]: https://linkedin.com/in/kevariable
 [twitter_icon]: http://i.imgur.com/wWzX9uB.png (twitter icon)
 [linkedin_icon]: https://raw.githubusercontent.com/kevariable/kevariable/master/linkedin.png (linkedin icon)
-[UMRI]: https://umri.ac.id/#googtrans(id|en)
